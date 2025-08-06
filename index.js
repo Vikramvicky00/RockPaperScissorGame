@@ -1,3 +1,4 @@
+//This is used to take inputs from both players.
 const playerinput=document.getElementById("player")
 const computerinput=document.getElementById("computer")
 const result=document.getElementById("result")
